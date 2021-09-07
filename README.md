@@ -1,4 +1,4 @@
- Here is two neural networks built based on the iris dataset. 
+ Here is two neural networks built based on the Iris dataset. 
  
  The first model contains one hidden layer with 8 nodes.
  It also has >95% accuracy.
